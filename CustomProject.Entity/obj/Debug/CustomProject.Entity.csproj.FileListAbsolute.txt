@@ -1,0 +1,9 @@
+C:\Users\serha\source\repos\CustomProject\CustomProject.Entity\obj\Debug\CustomProject.Entity.csproj.CoreCompileInputs.cache
+C:\Users\serha\source\repos\CustomProject\CustomProject.Entity\bin\Debug\CustomProject.Entity.dll
+C:\Users\serha\source\repos\CustomProject\CustomProject.Entity\bin\Debug\CustomProject.Entity.pdb
+C:\Users\serha\source\repos\CustomProject\CustomProject.Entity\bin\Debug\CustomProject.Common.dll
+C:\Users\serha\source\repos\CustomProject\CustomProject.Entity\bin\Debug\CustomProject.Common.pdb
+C:\Users\serha\source\repos\CustomProject\CustomProject.Entity\obj\Debug\CustomProject.Entity.csprojAssemblyReference.cache
+C:\Users\serha\source\repos\CustomProject\CustomProject.Entity\obj\Debug\CustomProject.Entity.csproj.CopyComplete
+C:\Users\serha\source\repos\CustomProject\CustomProject.Entity\obj\Debug\CustomProject.Entity.dll
+C:\Users\serha\source\repos\CustomProject\CustomProject.Entity\obj\Debug\CustomProject.Entity.pdb

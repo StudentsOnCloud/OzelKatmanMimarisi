@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+@model List<CustomProject.Entity.Categories>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        <table>
+            <thead>
+                <tr>
+                    <th>Kategori Adı</th>
+                    <th>Açıklama</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (CustomProject.Entity.Categories ctg in Model)
+                {
+                <tr>
+                    <td>@ctg.CategoryName</td>
+                    <td>@ctg.Description</td>
+                </tr>
+                }
+                
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
